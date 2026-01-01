@@ -1,0 +1,655 @@
+:: Start
+The Rent Divide
+by [Your Name]
+
+You and Mary have been inseparable since freshman year at State University. Now, with diplomas in hand and dreams bigger than your bank accounts, you've arrived in the city. You have $3,000 in savings, a car full of IKEA boxes, and 60 days before student loan payments begin.
+
+Mary (business major): "Okay, apartment rule number one: No rats. I don't care how cute the exposed brick is."
+You (communications major): "Rule number two: Within walking distance of coffee. My future depends on caffeine."
+
+The rental market opens before you like a choose-your-own-adventure novel where all the endings involve financial anxiety.
+
+[[Search online listings|Online Search]]
+[[Drive around looking for "For Rent" signs|Drive Around]]
+[[Ask Maya's cousin for advice|Cousin Advice]]
+
+:: Online Search
+You spend three hours refreshing rental sites. The algorithm seems personally offended by your budget.
+
+Available options:
+1) $2,400/month - "Cozy studio" (photos show a bed next to a toilet)
+2) $1,800/month - "Charming basement unit" (requires first, last, security, and a "key fee")
+3) $1,200/month - "Room in shared house" (landlord's bio: "No guests, no cooking smells, no life")
+
+Mary shows you her phone: "I found three job interviews! One's tomorrow at a marketing firm."
+
+Do you:
+[[Apply for all apartments and hope|Apply All]]
+[[Focus on jobs first, housing later|Jobs First]]
+[[Check the "roommate wanted" section|Roommate Section]]
+
+:: Drive Around
+You drive through neighborhoods while Mary reads listings aloud. Gentrification has created bizarre price disparities—$4,000 lofts next to $800 studios that haven't been updated since 1978.
+
+"Stop!" Mary points. A hand-painted sign: "APARTMENT - $950."
+
+The building looks... lived in. An older woman on the porch nods. "Just vacated. Former tenant won the lottery."
+
+Inside: 400 square feet, original hardwood (with character), functional kitchen, one window facing an alley. No rats spotted.
+
+The landlord appears. "Cash only. No credit check. Need first month today."
+
+You have the cash but...
+[[Take it! It's affordable!|Take Apartment]]
+[[This feels sketchy. Keep looking.|Keep Looking]]
+[[Ask for 24 hours to decide|24 Hours]]
+
+:: Cousin Advice
+Mary's cousin Liam meets you at a café. He's lived here five years.
+
+Liam: "First lesson: The listed price is never the real price. There's application fees, broker fees, 'amenity' fees... Also, your 'affordable' neighborhood? Next year's luxury condos."
+
+He shows you his spreadsheet of hidden costs:
+- Credit check: $75 per applicant
+- Guarantor fee (if needed): 1 month's rent
+- Pet fee (even for fish): $500
+- Move-in fee: $300
+
+"Your best bet?" Liam continues. "Find a sublet while you job hunt. Or consider being property managers—free rent but 24/7 on call."
+
+[[Follow Liam's advice|Liams Advice]]
+[[Thank him but trust your own research|Own Research]]
+
+:: Apply All
+You apply to all three apartments. Two days later:
+
+Apartment 1: "We've received 200 applications. We'll be in touch."
+Apartment 2: "Your credit score of 680 doesn't meet our 720 minimum."
+Apartment 3: The landlord emails: "The room is yours! Please wire $3,600 for first, last, and security."
+
+Mary shakes her head. "That's all our savings! What about jobs? Food?"
+
+Do you:
+[[Wire the money—housing security first|Wire Money]]
+[[Say no and keep looking|Say No]]
+[[Try to negotiate|Negotiate]]
+
+:: Jobs First
+You both focus on job interviews for a week.
+
+DAY 3: Mary gets an offer! $45,000 at the marketing firm. She celebrates, then realizes: "They want me to start in two weeks. Where will I live?"
+
+DAY 5: You get two interviews but no offers yet. The hotel you're at costs $120/night. Your savings are disappearing.
+
+DAY 7: Mary's new employer says they can't help with relocation. "Most employees live with roommates or commute."
+
+You check your bank account: $1,800 left.
+
+[[Look for immediate housing|Immediate Housing]]
+[[Ask Mary's employer for an advance|Ask Advance]]
+[[Consider commuting from outside the city|Commute]]
+
+:: Roommate Section
+"LOOKING FOR 3RD ROOMMATE. Must be chill, clean, and okay with cats (we have 4). $800/month."
+
+You meet Chloe and Sam. Their apartment is... colorful. Art everywhere, plants hanging from ceilings, four cats observing you judiciously.
+
+Chloe: "We're artists. Sam works nights at the hospital. We need someone reliable for rent."
+
+The room is small but has a window. The vibe is good. But then Sam mentions: "The lease is month-to-month. Landlord might sell the building."
+
+Mary whispers: "What if we get evicted in three months?"
+
+[[Take the room—it's affordable now|Take Room]]
+[[Keep looking for something more stable|Keep Looking Stable]]
+[[Ask about the building's future|Ask Future]]
+
+:: Take Apartment
+You hand over $950 cash. The landlord smiles oddly. "Keys tomorrow."
+
+That night in your hotel, Mary researches the address. "Oh no. This building... there's six housing violations. And the landlord is being sued for wrongful eviction."
+
+The next morning, you return. A different person answers. "Sorry, apartment's taken. That guy? He doesn't own the building."
+
+You've been scammed.
+
+Savings: -$950
+Morale: -100
+
+[[Return to searching, wiser but poorer|Return Search]]
+:: Keep Looking
+You thank the landlord and leave. As you drive away, Maya spots a community bulletin board:
+
+"TENANT UNION MEETING - Fighting for affordable housing. Thursday 7pm."
+
+And beneath it: "ROOM FOR RENT - Elderly neighbor needs help with groceries. Reduced rent in exchange for assistance."
+
+[[Go to the tenant union meeting|Tenant Union]]
+[[Investigate the elderly neighbor arrangement|Elderly Neighbor]]
+:: 24 Hours
+"Can we think about it overnight?"
+The landlord frowns. "I have other interested parties."
+
+That evening, you discover the neighborhood's Facebook group. A post: "Avoid 324 Maple - landlord takes deposits and never returns them. 15 complaints filed."
+
+You dodged a bullet.
+
+The next morning, another post catches your eye: "TEMPORARY HOUSING - Nonprofit offering 3-month subsidized apartments for recent grads. Application deadline: today."
+
+[[Apply for the subsidized housing|Subsidized]]
+:: Liams Advice
+You take Liam's spreadsheet and create your own battle plan:
+
+WEEK 1: Find a sublet in a "housemate wanted" situation. You score a month in a sunroom for $600.
+
+WEEK 2: Mary starts her job. You get a temporary gig at a coffee shop.
+
+WEEK 3: You discover "inclusionary zoning" apartments—set aside for middle-income residents. The waitlist is long, but you apply.
+
+WEEK 4: You meet a tenant organizer who explains: "The city requires developers to make 15% of new units affordable. But 'affordable' is based on area median income, which includes wealthy suburbs."
+
+It's not perfect, but you're learning the system.
+
+[[One month later...|One Month Later]]
+:: Own Research
+You thank Liam but decide to trust your instincts.
+
+Two days later, you find a promising lead: "NEW APARTMENT BUILDING - Affordable units available!"
+
+The building is gorgeous. The "affordable" units are all on the first floor facing the parking garage. The catch: You must earn between $45,000 and $65,000 to qualify.
+
+Maya: "I make $45,000 exactly. You're still job hunting. We don't qualify together."
+
+The leasing agent suggests: "What if just Mary applies? Then you can be a... guest."
+
+[[Have Mary apply alone|Mary Alone]]
+[[Reject this questionable arrangement|Reject Arrangement]]
+:: Wire Money
+You wire the $3,600. The landlord confirms receipt.
+
+Two days before move-in, you get an email: "Due to unforeseen circumstances, the room is no longer available. Refund processing: 30-60 business days."
+
+You call, email, knock on doors. Nothing. The listing has disappeared.
+
+You're out $3,600, with no apartment and dwindling hope.
+
+Mary is on the verge of tears. "My job starts Monday. I can't show up unhoused."
+
+[[Check into a long-term motel|Motel]]
+[[Call every housing nonprofit in the city|Nonprofit]]
+:: Say No
+"We can't afford that," you tell the landlord.
+
+He scoffs. "Everyone wants cheap rent. This is a city, not charity."
+
+That afternoon, Mary gets a call from her second-choice job: "We'd like to offer you a position. And we have an employee housing program."
+
+Turns out, some companies own buildings for employees. The rent is 30% below market. The catch: You must remain employed there.
+
+[[Mary takes the job with housing|Company Housing]]
+[[You both keep looking independently|Independent Search]]
+:: Negotiate
+"Could we do first month and security only? We're recent grads starting careers here."
+
+The landlord types. "I can do $2,800. But I need three references from previous landlords."
+
+You have exactly zero previous landlords.
+
+[[Fabricate references|Fabricate]]
+[[Admit you don't have references|No References]]
+:: Immediate Housing
+You find a "co-living" space: $1,200/month for a private bedroom, shared kitchen and bath with 8 strangers.
+
+The tour feels like a dorm for adults. The manager says: "We foster community! Weekly mandatory social events!"
+
+Mary's job is 45 minutes away by train. Your interviews are scattered across the city.
+
+You sign a 6-month lease because you're desperate.
+
+MONTH 1: Two roommates have screaming matches at 2am. Another never cleans.
+MONTH 2: The management raises the "community fee" by $50.
+MONTH 3: You get a job! But it's an hour commute from your "affordable" housing.
+
+[[Continue the grind|The Grind]]
+[[Look for something better while employed|Better While Employed]]
+:: Ask Advance
+Mary nervously asks her new employer: "Is there any relocation assistance or housing advance?"
+
+HR responds: "We offer a $2,000 signing bonus paid after 90 days."
+
+Not immediate help, but something.
+
+You calculate: $2,000 could cover a deposit if you find cheaper rent.
+
+A friend texts: "My building has a rent-controlled studio opening. $1,400 but needs work."
+
+Rent-controlled means the rent can only increase slightly each year. This is gold in this city.
+
+[[Apply for the rent-controlled studio|Rent Controlled]]
+:: Commute
+You find an apartment 45 minutes outside the city: $1,100 for two bedrooms.
+
+The commute costs $300/month in gas and tolls. You both spend 15 hours weekly in traffic.
+
+WEEK 2: Mary misses a work event because of highway closure.
+WEEK 4: Your car breaks down. Repair: $800.
+
+You're saving on rent but losing time, money, and sanity.
+
+One evening, stuck in traffic, Mary says: "I didn't move to the city to live outside it."
+
+[[Start looking in the city again|City Again]]
+:: Take Room
+You move into the artists' apartment. It's chaotic but feels like home.
+
+MONTH 1: Wonderful! The cats love you, your roommates become friends.
+MONTH 2: The landlord posts notice: "Building sold. All month-to-month tenants must vacate in 60 days."
+
+You have two months to find new housing in a market that's gotten even worse.
+
+But your roommates have an idea: "What if we find a bigger place together? Four incomes can qualify for more."
+
+[[Form a housing collective|Collective]]
+:: Keep Looking Stable
+You decline the room. A week later, you see it re-listed for $1,100.
+
+Gentrification is accelerating.
+
+At a coffee shop, you overhear: "...and the city council is voting on the Tenant Protection Act next week. If it passes, no more arbitrary evictions."
+
+[[Get involved in housing advocacy|Advocacy]]
+:: Ask Future
+"Who owns the building? Is it being sold?"
+
+Sam looks uncomfortable. "The owner's daughter is a real estate developer. She's been buying up the block."
+
+Chloe adds: "We're trying to organize the tenants. If we can get enough people, we might qualify for the city's right-to-purchase program."
+
+They explain: Some cities give tenants first right to buy their building if it goes up for sale, often with nonprofit help.
+
+[[Join the tenant organizing effort|Organize]]
+:: Return Search
+You report the scam to the police (they take a report but say recovery is unlikely).
+
+At the library, you find free housing counseling. The counselor shows you programs you never knew existed:
+
+- Security deposit assistance for working tenants
+- First-time renter workshops
+- A list of landlords who don't require perfect credit
+
+It's not a quick fix, but it's a path forward.
+
+[[Attend a first-time renter workshop|Workshop]]
+:: Tenant Union
+The meeting is full of people like you: priced out, stressed, angry.
+
+You learn about "source of income discrimination"—some landlords refuse tenants with housing vouchers or certain jobs.
+
+The union is fighting for:
+1) Just-cause eviction laws
+2) Rent stabilization
+3) More affordable housing requirements
+
+They're also creating a landlord blacklist and tenant co-op housing.
+
+[[Join the tenant union|Join Union]]
+:: Elderly Neighbor
+Mrs. Garcia is 82, living alone in a 3-bedroom rent-controlled apartment.
+
+"I don't need the money," she says. "I need company. And someone to get my prescriptions."
+
+The arrangement: $400/month plus 10 hours weekly of assistance. The apartment is rent-controlled—her rent is $900 for the entire unit!
+
+But there's a catch: When she passes or moves, the lease ends. No guarantee of renewal.
+
+[[Accept with eyes open|Accept Arrangement]]
+:: Subsidized
+You rush to complete the application. The program is designed exactly for your situation: recent grads with job prospects but limited resources.
+
+INTERVIEW: "Why do you want to live in our city?"
+You answer honestly: "We believe communities thrive when everyone can afford to live in them."
+
+ACCEPTANCE: You get a studio for $900/month for 3 months. Time to stabilize.
+
+During those months, you both secure jobs. You meet other program participants—forming a network of young professionals facing similar challenges.
+
+[[Three months later...|Three Months Later]]
+:: One Month Later
+You're in the sunroom sublet. Mary's job is going well. Your coffee shop gig pays bills.
+
+Together, you've learned:
+- Always check property records
+- Get EVERYTHING in writing
+- Know your tenant rights
+- Community matters most
+
+You're not in your dream apartment yet, but you're building knowledge, networks, and resilience.
+
+The city hasn't beaten you. It's teaching you how to fight.
+
+[[Continue your journey|Continue Journey]]
+:: Mary Alone
+Mary applies alone and is approved! The apartment is yours... technically.
+
+MONTH 1: The leasing office "notices" you're always there. They threaten to evict Maya for violating the "no long-term guests" policy.
+
+MONTH 2: You get a job with a housing nonprofit. Your first project? Fighting exactly these kinds of restrictive policies.
+
+Sometimes, the problem becomes your purpose.
+
+[[Begin your housing advocacy career|Advocacy Career]]
+:: Reject Arrangement
+"That feels dishonest," you say.
+
+You find a different path: An older couple needs house sitters while they travel for 6 months. Free rent in exchange for plant watering and mail collection.
+
+It's temporary, but it buys you time to find real jobs and real housing without desperation driving your decisions.
+
+Sometimes the unconventional path is the most sustainable.
+
+[[Embrace the unconventional|Unconventional]]
+:: Motel
+The "weekly rate" motel costs $500/week. You share one room. Mary's new job requires professional attire, but there's no iron, no proper mirror.
+
+You meet other long-term residents: a teacher, a nurse, a retail worker. All working full-time but unable to afford apartment deposits.
+
+One morning, a notice appears: "Motel being converted to luxury boutique hotel. All residents must vacate in 30 days."
+
+Even temporary housing isn't secure.
+
+[[Join other residents in fighting the conversion|Fight Conversion]]
+:: Nonprofit
+You call 15 organizations. Most have waitlists or don't serve your demographic.
+
+But one has an opening: "Shared housing program matches older homeowners with extra rooms with younger tenants at reduced rent."
+
+You're matched with Mr. Chen, a retired teacher whose children moved away. He charges $600 for a large bedroom, includes utilities, and makes amazing dumplings.
+
+It's not independence, but it's stability with dignity.
+
+[[Move in with Mr. Chen|Mr Chen]]
+:: Company Housing
+Mary accepts the job-with-housing offer. The apartment is clean, safe, and affordable.
+
+But there are strings: Regular apartment inspections. No political signage. No overnight guests more than 3 nights monthly.
+
+You find your own place across town—a longer commute to see each other.
+
+You realize: Company towns never really disappeared. They just got corporate makeovers.
+
+[[Navigate this new dynamic|New Dynamic]]
+:: Independent Search
+Mary takes the job but finds her own housing. You continue searching.
+
+Three months later, you're both in different apartments, paying more than you'd like, but independent.
+
+You start a blog: "The Affordable City" documenting your journey. It goes viral. You're invited to speak at housing forums.
+
+Your struggle becomes your platform for change.
+
+[[Become a housing advocate|Become Advocate]]
+:: Fabricate
+You create fake email accounts and pretend to be former landlords. The current landlord doesn't check thoroughly.
+
+You get the apartment!
+
+Six months later, the real former landlord contacts you about something unrelated. Your deception is discovered.
+
+Eviction proceedings begin. Your credit is ruined.
+
+The shortcut cost you everything.
+
+[[Start over with harder lessons|Hard Lessons]]
+:: No References
+"We don't have previous landlords. We're recent graduates."
+
+The landlord nods. "I was once you. Tell you what—get a cosigner with good credit, and we'll waive the last month."
+
+Your parents agree to cosign. The weight of potentially impacting their credit hangs over you, but you have a home.
+
+Intergenerational wealth (or lack thereof) shapes housing access in ways you never understood before.
+
+[[Move in with gratitude and pressure|Gratitude Pressure]]
+:: The Grind
+You endure the co-living situation for 8 months. Finally, with both of you employed steadily, you qualify for a proper apartment.
+
+The search is still brutal, but you're veterans now. You know which questions to ask, which red flags to spot.
+
+On moving day, Mary toasts: "To surviving the survival test."
+
+The city didn't make it easy, but you made it.
+
+[[Reflect on your journey|Reflect Journey]]
+:: Better While Employed
+With steady income, you qualify for better apartments. You find a small one-bedroom for $1,800—still high, but manageable.
+
+You join the building's tenant association. Together, you successfully lobby the landlord to cap rent increases.
+
+Change happens from within systems and from organizing outside them.
+
+[[Continue organizing|Continue Organizing]]
+:: Rent Controlled
+The rent-controlled studio needs paint, new floors, and has quirky plumbing. But the rent will stay reasonable for years.
+
+You learn that 80% of the city's affordable housing isn't new construction—it's older, rent-controlled units preserving community.
+
+Your fixer-upper becomes your castle. You host housing rights meetings in your living room.
+
+Sometimes the imperfect solution is the most sustainable.
+
+[[Make it home|Make Home]]
+:: City Again
+You break your lease (paying a hefty fee) and return to the city search.
+
+This time, you're smarter. You find a four-person housing collective through the tenant union. Shared responsibility, shared costs, shared power.
+
+It's not the independence you imagined, but it's the community you needed.
+
+[[Embrace collective living|Collective Living]]
+:: Collective
+You and your three roommates find a 4-bedroom for $3,200—$800 each. Together, you have stronger bargaining power.
+
+You form a legal housing cooperative, giving yourselves more rights than typical tenants.
+
+The developer who bought your old building? She offers to sell it to your new cooperative. The fight continues, but now you have tools.
+
+[[Purchase your old building|Purchase Building]]
+:: Advocacy
+You attend city council meetings. You share your story. You meet others: the teacher living in her car, the nurse with three roommates.
+
+The Tenant Protection Act passes! Just-cause eviction is now law.
+
+You learn: Policy change is slow, but it's the only thing that creates systemic change.
+
+[[Continue the fight|Continue Fight]]
+:: Organize
+You join the tenant organizing. Together, you research the right-to-purchase program, crowdfund a down payment, and work with a community land trust.
+
+It takes a year. There are setbacks. But you succeed.
+
+You don't just find housing—you create community-controlled housing that will stay affordable for generations.
+
+[[Celebrate your victory|Victory]]
+:: Workshop
+The workshop teaches you:
+- How to spot rental scams
+- Your rights regarding repairs
+- How to negotiate with landlords
+- Resources for financial assistance
+
+You leave with knowledge, contacts, and confidence.
+
+Knowledge, it turns out, is the most affordable housing tool of all.
+
+[[Apply your new knowledge|Apply Knowledge]]
+:: Join Union
+You become a tenant union organizer. Your personal struggle becomes your professional mission.
+
+You help pass legislation protecting tenants from source-of-income discrimination.
+
+The city doesn't become affordable overnight, but it becomes more just.
+
+[[Find purpose in the struggle|Find Purpose]]
+:: Accept Arrangement
+You move in with Mrs. Garcia. She becomes like family. You learn her stories—she fought for fair housing in the 1960s.
+
+"Back then," she says, "they wouldn't rent to me because I was Puerto Rican. We organized. We changed laws."
+
+History repeats, but so does resistance.
+
+When Mrs. Garcia passes two years later, her children let you stay at the same rent. Community extends beyond blood.
+
+[[Honor her legacy|Legacy]]
+:: Three Months Later
+The subsidized housing ends, but you're both employed now. You find an apartment together—$1,600, 30% of your combined income.
+
+It's not perfect, but it's yours. You join the building's tenant association.
+
+The struggle for housing never really ends in an unaffordable city, but neither does solidarity.
+
+[[Begin your life in the city|Begin Life]]
+:: Continue Journey
+The story continues beyond these pages. The search for affordable housing in expensive cities is America's ongoing story.
+
+What matters isn't just finding shelter, but building community that makes the search bearable and the fight winnable.
+
+[[Start again with new knowledge|Restart]]
+:: Advocacy Career
+You become a housing policy expert. Maya rises in marketing. Together, you buy a two-family home—living in one unit, renting the other affordably.
+
+You become the solution you needed.
+
+Be the change, then be the landlord who embodies that change.
+
+[[Build generational stability|Generational]]
+:: Unconventional
+You learn that "success" in the city doesn't have to look like a luxury high-rise. It can look like mutual aid, shared resources, creative solutions.
+
+You start a network matching homeowners with extra space with tenants needing affordability.
+
+The solution isn't just finding housing—it's reimagining how housing works.
+
+[[Reimagine housing|Reimagine]]
+:: Fight Conversion
+You organize with other residents. You get media coverage. The city delays the conversion, offering relocation assistance.
+
+You realize: Even those with the least power can organize for better outcomes when they organize together.
+
+[[Build power with your neighbors|Build Power]]
+:: Mr Chen
+Living with Mr. Chen, you learn intergenerational living's value. He helps with job advice; you help with technology.
+
+You create a model others replicate: Shared housing as bridge, not last resort.
+
+[[Document and share the model|Share Model]]
+:: New Dynamic
+You and Maya navigate the corporate housing rules. You push boundaries, organize with other company housing tenants, and eventually negotiate better terms.
+
+Even within systems of control, there's space for resistance.
+
+[[Find spaces for resistance|Resistance]]
+:: Become Advocate
+Your blog leads to a book deal, speaking engagements, policy consulting.
+
+You use your platform to push for:
+- Rent control expansion
+- Community land trusts
+- Tenant opportunity to purchase
+
+Your voice becomes part of the movement.
+
+[[Amplify the movement|Amplify]]
+:: Hard Lessons
+You move back home temporarily, rebuild credit, learn housing law, and return stronger.
+
+Sometimes going backward is the only way to move forward differently.
+
+[[Return with wisdom|Return Wisdom]]
+:: Gratitude Pressure
+You appreciate your parents' help but feel the weight. You work extra jobs to build savings faster.
+
+Two years later, you refinance to remove them as cosigners. Independence delayed isn't independence denied.
+
+[[Achieve independence|Achieve Independence]]
+:: Reflect Journey
+You look around your apartment—small but yours. The journey taught you:
+- Systems aren't broken; they're designed this way
+- Community is your greatest resource
+- Change requires both individual grit and collective action
+
+The city got more than two new residents. It got two new organizers.
+
+[[Your story continues...|End]]
+:: Continue Organizing
+You help form tenant unions in other buildings. The movement grows.
+
+Affordable housing isn't just about finding a place to live—it's about creating cities where everyone can belong.
+
+[[Build belonging|Belonging]]
+:: Make Home
+You paint, repair, decorate. Neighbors become friends. You start a tool-lending library in your building.
+
+Home isn't just a space—it's what you build within it and around it.
+
+[[Build community|Build Community]]
+:: Collective Living
+Four incomes, shared chores, collective decision-making. It's messy but meaningful.
+
+You realize: The nuclear family living alone isn't sustainable in expensive cities. New models are necessary.
+
+[[Create new models|New Models]]
+:: Purchase Building
+With community land trust backing, your cooperative purchases the building. Rents are permanently affordable.
+
+You don't just stop displacement—you create permanently affordable community-controlled housing.
+
+[[Create lasting change|Lasting Change]]
+:: Continue Fight
+The fight for housing justice never ends, but neither do the fighters.
+
+You're part of a growing movement recognizing housing as a human right, not a commodity.
+
+[[Join the movement|Movement]]
+:: Victory
+You cut the ribbon on your community-owned building. Former tenants become owners. The cycle of displacement is broken on your block.
+
+One building at a time, one block at a time, the city becomes more equitable.
+
+[[Celebrate community power|Community Power]]
+:: Apply Knowledge
+You use your knowledge to help others. You volunteer as a housing counselor.
+
+Those who survive the system have a duty to help others navigate it.
+
+[[Pay it forward|Pay Forward]]
+:: Find Purpose
+Your housing struggle becomes your life's work. You run for city council on a housing justice platform.
+
+The personal is political, and the political is deeply personal.
+
+[[Enter politics|Politics]]
+:: Legacy
+You honor Mrs. Garcia by continuing her fight. You lead workshops for older homeowners wanting to create intergenerational housing.
+
+Legacies aren't just inherited—they're extended through action.
+
+[[Extend the legacy|Extend Legacy]]
+:: Begin Life
+Your life in the city begins. It's not the fairytale you imagined, but it's real, grounded in community and purpose.
+
+The most affordable housing is housing with dignity, and dignity is built together.
+
+[[Live your city life|City Life]]
+
+:: End
+THE END
+
+But really, it's just the beginning.
+
+The struggle for affordable housing continues in every city. Your role in that story is just beginning.
+
+What will you do next?
+
+[[Share this story with others|Share]]
+[[Learn about real housing advocacy|Real Advocacy]]
+[[Reflect on your own housing journey|Reflect]]
