@@ -1,6 +1,6 @@
 # Staying Housed in the City
 
-**Staying Housed in the City** is an interactive fiction game exploring the challenges of finding affordable housing in a modern city. You play as a recent college graduate navigating rent prices, job offers, financial limitations, and the emotional rollercoaster of adulthood.
+**Staying Housed in the City** is an interactive fiction game exploring the challenges of finding affordable housing in a modern city. You play as a recent college graduate navigating rent prices, job offers, financial limitations, and the emotional rollercoaster of housing in the city.
 
 Built using Twine, this story-driven game invites players to make choices that shape their experience—balancing realism with empathy, humor, and social commentary.
 
