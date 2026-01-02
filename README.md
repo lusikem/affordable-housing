@@ -26,8 +26,5 @@ Built using Twine, this story-driven game invites players to make choices that s
 
 This project is released under the [MIT License](LICENSE).
 
-## Author
 
-Created by L. Lusike Mukhongo  
-Inspired by real housing struggles faced by young adults and city dwellers everywhere.
 
